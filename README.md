@@ -50,20 +50,6 @@ I love solving problems, building projects, and learning new technologies.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=merazahasan&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=merazahasan&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=merazahasan&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=merazahasan&theme=onedark&margin-w=10)
-
----
 
 ## 📫 Connect With Me
 <p align="center">
