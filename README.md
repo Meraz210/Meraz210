@@ -1,26 +1,21 @@
 
-<!-- ===================== TOP BANNER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=200&section=header&text=Meraz%20Ahasan&fontSize=45&fontColor=FFFFFF&animation=fadeIn" />
-</p>
-
 # 👋 Hi, I'm Meraz Ahasan  
 
-<img src="https://raw.githubusercontent.com/undraw/undraw/master/illustrations/programming_re_kg9v.svg" width="280" align="right" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right" />
 
 🌍 **Location:** Bangladesh  
 💼 **Aspiring Software Engineer & Full-Stack Web Developer**  
-🎯 **Focus Areas:** Full-Stack Web Development, Artificial Intelligence, Machine Learning  
+🎯 **Focus Areas:** Web Development, Artificial Intelligence, Machine Learning  
 
 ---
 
 ## 👨‍💻 About Me  
 
-I am an **aspiring Software Engineer and Full-Stack Web Developer** with a strong foundation in **Computer Science and Software Development**. I have hands-on experience in **C, C++, Java, Python, and PHP**, along with solid knowledge of **Data Structures & Algorithms, Object-Oriented Programming, and Computer Networks**.
+I am an **aspiring Software Engineer and Full-Stack Web Developer** with a strong foundation in **Computer Science and Software Development**. I have hands-on experience with multiple programming languages, including **C, C++, Java, Python, and PHP**, and a solid understanding of **Data Structures & Algorithms, Object-Oriented Programming, and Computer Networks**.
 
-I specialize in building **end-to-end web applications**, working across frontend, backend, and databases. Alongside web development, I am actively learning **Artificial Intelligence and Machine Learning** to create intelligent, data-driven applications.
+I am particularly passionate about **Full-Stack Web Development**, where I enjoy building complete web applications—from responsive user interfaces to efficient backend systems and databases. Alongside web development, I am deeply interested in **Artificial Intelligence and Machine Learning**, and I am actively learning modern ML frameworks to build intelligent applications.
 
-I am passionate about continuous learning, problem-solving, and contributing to **open-source projects**, with the goal of building scalable and impactful software solutions.
+I enjoy solving problems, building real-world projects, and continuously improving my technical skills. My long-term goal is to become a **professional software engineer** who develops scalable, secure, and impactful software solutions.
 
 ---
 
@@ -40,20 +35,21 @@ I am passionate about continuous learning, problem-solving, and contributing to 
 **Frontend**
 - HTML5, CSS3, JavaScript  
 - Responsive Web Design  
-- UI/UX Basics  
+- Basic UI/UX Principles  
 
 **Backend**
 - PHP  
-- Python (Flask / Django – learning)  
+- Python (Flask/Django – learning)  
 - RESTful APIs  
 
 **Database**
 - MySQL  
+- Basic Database Design & Queries  
 
-**Tools & Platforms**
+**Tools & Technologies**
 - Git & GitHub  
 - VS Code  
-- Linux (Basic)  
+- Linux (basic)  
 
 ---
 
@@ -73,51 +69,18 @@ I am passionate about continuous learning, problem-solving, and contributing to 
 ---
 
 ## 🚀 Current Focus  
-- Building **full-stack web applications**  
 - Strengthening **DSA & problem-solving skills**  
+- Building **full-stack web applications**  
 - Learning **TensorFlow, PyTorch, Scikit-learn**  
-- Improving **backend & database architecture**
+- Improving **backend & database design skills**
 
 ---
 
 ## 🎯 Career Goals  
-- Become a **professional Full-Stack Web Developer**  
+- Become a **skilled Full-Stack Web Developer**  
 - Build **AI-powered web applications**  
 - Contribute to **open-source projects**  
-- Grow as a **skilled software engineer**
-
----
-
-## 📂 Featured Projects  
-
-### 🌐 Full-Stack Web Projects
-- **Personal Portfolio Website**  
-  Responsive portfolio website showcasing skills and projects.  
-  **Tech:** HTML, CSS, JavaScript  
-
-- **Student Management System**  
-  CRUD-based web application for managing student data.  
-  **Tech:** PHP, MySQL  
-
----
-
-### 🤖 AI / Machine Learning Projects
-- **Machine Learning Model**  
-  Implemented basic ML algorithms for prediction.  
-  **Tech:** Python, Scikit-learn  
-
-- **Data Analysis Project**  
-  Data cleaning and visualization from datasets.  
-  **Tech:** Python, Pandas, Matplotlib  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=merazahasan&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=merazahasan&theme=tokyonight" height="160"/>
-</p>
+- Grow into a **professional software engineer**
 
 ---
 
@@ -144,8 +107,3 @@ I am passionate about continuous learning, problem-solving, and contributing to 
 ---
 
 ⭐ **“Build with purpose. Learn daily. Improve relentlessly.”**
-
-<!-- ===================== FOOTER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=120&section=footer"/>
-</p>
