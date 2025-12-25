@@ -1,21 +1,26 @@
 
+<!-- ===================== TOP BANNER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=200&section=header&text=Meraz%20Ahasan&fontSize=45&fontColor=FFFFFF&animation=fadeIn" />
+</p>
+
 # 👋 Hi, I'm Meraz Ahasan  
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right" />
+<img src="https://raw.githubusercontent.com/undraw/undraw/master/illustrations/programming_re_kg9v.svg" width="280" align="right" />
 
 🌍 **Location:** Bangladesh  
-💻 **Aspiring Software Engineer**  
-🎯 **Interests:** Artificial Intelligence, Machine Learning, Web Development, Software Engineering  
+💼 **Aspiring Software Engineer & Full-Stack Web Developer**  
+🎯 **Focus Areas:** Full-Stack Web Development, Artificial Intelligence, Machine Learning  
 
 ---
 
 ## 👨‍💻 About Me  
 
-I am an **aspiring Software Engineer** with a strong foundation in **Computer Science and Software Development**. I have hands-on experience with multiple programming languages including **C, C++, Java, Python, and PHP**, along with solid knowledge of **Data Structures & Algorithms, Object-Oriented Programming, and Computer Networks**.
+I am an **aspiring Software Engineer and Full-Stack Web Developer** with a strong foundation in **Computer Science and Software Development**. I have hands-on experience in **C, C++, Java, Python, and PHP**, along with solid knowledge of **Data Structures & Algorithms, Object-Oriented Programming, and Computer Networks**.
 
-My main interests are **Artificial Intelligence, Machine Learning, and Web Development**. I enjoy solving problems, building real-world projects, and learning modern technologies. Currently, I am focused on improving my **problem-solving skills**, exploring **machine learning frameworks**, and developing practical software solutions.
+I specialize in building **end-to-end web applications**, working across frontend, backend, and databases. Alongside web development, I am actively learning **Artificial Intelligence and Machine Learning** to create intelligent, data-driven applications.
 
-I aim to contribute to **open-source projects** and grow into a **professional software engineer** who builds efficient, scalable, and impactful applications.
+I am passionate about continuous learning, problem-solving, and contributing to **open-source projects**, with the goal of building scalable and impactful software solutions.
 
 ---
 
@@ -25,38 +30,94 @@ I aim to contribute to **open-source projects** and grow into a **professional s
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-004488?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+---
+
+### 🌐 Full-Stack Web Development  
+
+**Frontend**
+- HTML5, CSS3, JavaScript  
+- Responsive Web Design  
+- UI/UX Basics  
+
+**Backend**
+- PHP  
+- Python (Flask / Django – learning)  
+- RESTful APIs  
+
+**Database**
+- MySQL  
+
+**Tools & Platforms**
+- Git & GitHub  
+- VS Code  
+- Linux (Basic)  
 
 ---
 
 ### 🌐 Computer Science Fundamentals  
 - Data Structures & Algorithms  
-- Object-Oriented Programming  
+- Object-Oriented Programming (OOP)  
 - Computer Networks  
 
 ---
 
 ### 🤖 Areas of Interest  
+- Full-Stack Web Development  
 - Artificial Intelligence  
 - Machine Learning  
 - Deep Learning  
-- Web Development  
 
 ---
 
 ## 🚀 Current Focus  
-- Improving **problem-solving & algorithms**  
+- Building **full-stack web applications**  
+- Strengthening **DSA & problem-solving skills**  
 - Learning **TensorFlow, PyTorch, Scikit-learn**  
-- Exploring **Web Development technologies**  
-- Building **real-world projects**
+- Improving **backend & database architecture**
 
 ---
 
 ## 🎯 Career Goals  
+- Become a **professional Full-Stack Web Developer**  
+- Build **AI-powered web applications**  
 - Contribute to **open-source projects**  
-- Build **AI-powered & web-based applications**  
-- Become a **professional software engineer**
+- Grow as a **skilled software engineer**
+
+---
+
+## 📂 Featured Projects  
+
+### 🌐 Full-Stack Web Projects
+- **Personal Portfolio Website**  
+  Responsive portfolio website showcasing skills and projects.  
+  **Tech:** HTML, CSS, JavaScript  
+
+- **Student Management System**  
+  CRUD-based web application for managing student data.  
+  **Tech:** PHP, MySQL  
+
+---
+
+### 🤖 AI / Machine Learning Projects
+- **Machine Learning Model**  
+  Implemented basic ML algorithms for prediction.  
+  **Tech:** Python, Scikit-learn  
+
+- **Data Analysis Project**  
+  Data cleaning and visualization from datasets.  
+  **Tech:** Python, Pandas, Matplotlib  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=merazahasan&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=merazahasan&theme=tokyonight" height="160"/>
+</p>
 
 ---
 
@@ -78,11 +139,13 @@ I aim to contribute to **open-source projects** and grow into a **professional s
   <a href="https://www.instagram.com/ahasanmeraz">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </p>
 
 ---
 
 ⭐ **“Build with purpose. Learn daily. Improve relentlessly.”**
+
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=120&section=footer"/>
+</p>
