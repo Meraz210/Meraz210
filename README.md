@@ -1,6 +1,6 @@
 
 # 👋 Hi, I'm Meraz Ahasan  
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right" />
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" align="right" />
 
 🌍 **Location:** Bangladesh  
 💼 **Aspiring Software Engineer & Full-Stack Web Developer**  
@@ -47,13 +47,6 @@ My goal is to become a **professional software engineer** who builds scalable, s
 ## 🛠️ Featured Projects
 *(Coming soon - working on exciting projects to showcase here!)*
 
-<!-- Example format when you have projects:
-### 🔹 [Project Name](link)
-Brief description of what it does and technologies used.
-- **Tech Stack:** Python, Flask, MySQL
-- **Features:** User authentication, REST API, responsive design
--->
-
 ---
 
 ## 🚀 What I'm Working On
@@ -73,16 +66,14 @@ Brief description of what it does and technologies used.
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=merazahasan&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=merazahasan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=merazahasan&layout=compact&langs_count=8&theme=radical"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=merazahasan&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merazahasan&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
