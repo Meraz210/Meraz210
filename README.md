@@ -13,18 +13,16 @@
 
 ## 👨‍💻 About Me  
 
-I am an **aspiring Software Engineer and Full-Stack Web Developer** with a strong foundation in **Computer Science**. I have hands-on experience with **C, C++, Java, Python, and PHP**, and solid knowledge of **Data Structures & Algorithms, OOP, and Computer Networks**.
+I am an **aspiring Software Engineer and Full-Stack Web Developer** with a strong foundation in **Computer Science**.  
+I have experience with **C, C++, Java, Python, and PHP**, and solid knowledge of **DSA, OOP, and Computer Networks**.
 
-I specialize in **Full-Stack Web Development**—building responsive frontends, efficient backends, and robust databases. I'm also passionate about **Artificial Intelligence and Machine Learning**, actively learning frameworks like **TensorFlow and PyTorch** to create intelligent applications.
-
-My goal is to become a **professional software engineer** who builds scalable, secure, and impactful solutions.
+I love building **full-stack web applications** and I’m learning **AI & Machine Learning** to build intelligent systems.
 
 ---
 
 ## 🧠 Skills & Technologies  
 
 ### 💻 Programming Languages  
-
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-004488?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -34,63 +32,25 @@ My goal is to become a **professional software engineer** who builds scalable, s
 ---
 
 ### 🌐 Web Development  
-
-- **Frontend:** HTML5, CSS3, JavaScript, Responsive Design  
+- **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** PHP, Python (Flask / Django)  
 - **Database:** MySQL  
 - **Tools:** Git, GitHub, VS Code, Linux  
 
 ---
 
-### 📚 Core Computer Science  
-
-- Data Structures & Algorithms  
-- Object-Oriented Programming  
-- Computer Networks  
-
----
-
-### 🤖 Learning & Interests  
-
-- Machine Learning (TensorFlow, PyTorch, Scikit-learn)  
-- Deep Learning  
-- AI-powered Applications  
-
----
-
-## 🛠️ Featured Projects  
-
-🚧 *Coming soon — exciting projects in progress!* 🚀  
-
----
-
-## 🚀 What I'm Working On  
-
-- 💪 Mastering **Data Structures & Algorithms**  
-- 🌐 Building **Full-Stack Web Applications**  
-- 🤖 Learning **TensorFlow & PyTorch**  
-- 📊 Designing efficient **databases & backend systems**  
-
----
-
-## 🎯 Career Goals  
-
-- Become a **Skilled Full-Stack Web Developer**  
-- Build **AI-powered Web Applications**  
-- Contribute to **Open-Source Projects**  
-- Grow into a **Professional Software Engineer**  
-
----
-
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=merazahasan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=merazahasan&layout=compact&langs_count=8&theme=radical&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=merazahasan&show_icons=true&theme=radical&v=1" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=merazahasan&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merazahasan&layout=compact&theme=radical&v=1" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=merazahasan&theme=radical" />
 </p>
 
 ---
@@ -98,7 +58,7 @@ My goal is to become a **professional software engineer** who builds scalable, s
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=merazahasan&theme=radical&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=merazahasan&theme=radical&no-frame=true" />
 </p>
 
 ---
@@ -112,14 +72,8 @@ My goal is to become a **professional software engineer** who builds scalable, s
   <a href="https://www.linkedin.com/in/meraz-ahasan">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.facebook.com/share/1EwvNgX1MU/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
   <a href="https://x.com/ahasanmj">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/ahasanmeraz">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
@@ -130,5 +84,5 @@ My goal is to become a **professional software engineer** who builds scalable, s
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=merazahasan&color=blueviolet&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=merazahasan&style=for-the-badge&color=blueviolet" />
 </p>
