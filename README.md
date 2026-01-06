@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Meraz Ahasan  
 
 <p align="center">
@@ -14,9 +13,10 @@
 ## 👨‍💻 About Me  
 
 I am an **aspiring Software Engineer and Full-Stack Web Developer** with a strong foundation in **Computer Science**.  
-I have experience with **C, C++, Java, Python, and PHP**, and solid knowledge of **DSA, OOP, and Computer Networks**.
 
-I love building **full-stack web applications** and I’m learning **AI & Machine Learning** to build intelligent systems.
+I have experience with **C, C++, Java, Python, and PHP**, and solid knowledge of **Data Structures & Algorithms, Object-Oriented Programming, and Computer Networks**.
+
+I enjoy building **full-stack web applications** and am currently exploring **AI & Machine Learning** to create intelligent, real-world solutions.
 
 ---
 
@@ -39,13 +39,17 @@ I love building **full-stack web applications** and I’m learning **AI & Machin
 
 ---
 
+## 📊 GitHub Stats  
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=merazahasan&show_icons=true&theme=tokyonight" />
+</p>
 
-
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=merazahasan&theme=tokyonight" />
+</p>
 
 ---
-
 
 ## 📫 Connect With Me  
 
