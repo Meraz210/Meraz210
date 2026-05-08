@@ -1,122 +1,284 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Meraz%20Ahasan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20|%20Full-Stack%20Web%20Developer%20|%20App%20Developer&descAlignY=55&descSize=18" width="100%" />
+<!-- ========================= HEADER ========================= -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,25:0f172a,50:1e3a8a,75:2563eb,100:38bdf8&text=Meraz%20Ahasan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Full-Stack%20Developer%20•%20AI%20Explorer&descAlignY=58&descSize=20" width="100%" />
+
+<!-- ========================= INTRO ========================= -->
 
 <h1 align="center">Hi 👋, I'm Meraz Ahasan</h1>
-<h3 align="center">Aspiring Software Engineer | Full-Stack Web Developer | App Developer</h3>
 
-<img align="right" alt="coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<h3 align="center">
+Full-Stack Developer • Software Engineering Enthusiast • Problem Solver
+</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Meraz210&label=Profile%20views&color=0e75b6&style=flat" alt="Meraz210" />
+<p align="center">
+I build scalable web applications, modern digital experiences, and impactful software solutions.
 </p>
 
-## 🚀 About Me
+<!-- ========================= TYPING SVG ========================= -->
 
-- 🎓 I am an aspiring **Software Engineer** from Bangladesh
-- 💻 I build **full-stack web applications** and explore **modern software solutions**
-- 📱 I am also interested in **App Development** and creating user-friendly mobile experiences
-- 🤖 Currently exploring **Artificial Intelligence** and **Machine Learning**
-- 🧠 Strong foundation in **Data Structures & Algorithms, Object-Oriented Programming, and Computer Networks**
-- 🌱 Always learning and improving to build **scalable, impactful, and real-world applications**
-
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://github.com/Meraz210" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/meraz-ahasan" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://x.com/ahasanmj" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X" height="30" width="40" />
-  </a>
-  <a href="mailto:merazahasan210@gmail.com">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" height="30" width="40" />
-  </a>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Software+Engineer;Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js;AI+%26+Machine+Learning+Explorer;Building+Scalable+Applications;Always+Learning+New+Technologies" />
 </p>
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-  </a>
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
+<!-- ========================= SOCIAL LINKS ========================= -->
+
+<p align="center">
+
+<a href="https://github.com/Meraz210">
+<img src="https://skillicons.dev/icons?i=github" width="52" />
+</a>
+
+<a href="https://www.linkedin.com/in/meraz-ahasan">
+<img src="https://skillicons.dev/icons?i=linkedin" width="52" />
+</a>
+
+<a href="mailto:merazahasan210@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="52" />
+</a>
+
+<a href="https://x.com/ahasanmj">
+<img src="https://cdn.simpleicons.org/x/white" width="48" />
+</a>
+
 </p>
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Meraz210&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+---
+
+# 💻 Developer Workspace
+
+<p align="center">
+  <img 
+    width="100%" 
+    src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" 
+    alt="Developer Workspace"
+  />
 </p>
+
+<p align="center">
+
+### ⚡ Building Scalable Applications • Solving Real-World Problems • Learning Every Day
+
+</p>
+
+---
+
+# 🚀 About Me
+
+```yaml
+Name: Meraz Ahasan
+Location: Bangladesh
+Education: CSE Student
+
+Focus:
+  - Full-Stack Web Development
+  - Artificial Intelligence
+  - Scalable Software Architecture
+  - Problem Solving & DSA
+
+Currently Learning:
+  - Next.js
+  - System Design
+  - Cloud Technologies
+  - Advanced Backend Engineering
+
+Goal:
+  Build impactful real-world software products.
+```
+
+---
+
+# 🛠️ Tech Stack
+
+## 👨‍💻 Languages
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Meraz210&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,js,ts,kotlin" />
 </p>
+
+---
+
+## 🎨 Frontend Development
 
 <p>
-  <img align="center" src="https://streak-stats.demolab.com?user=Meraz210&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
 </p>
 
-<h3 align="left">🎯 Current Focus:</h3>
+---
 
-- Full-Stack Web Development  
-- App Development  
-- Problem Solving & DSA  
-- Artificial Intelligence & Machine Learning  
+## ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel" />
+</p>
+
+---
+
+## 🗄️ Database & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+</p>
+
+---
+
+## 📱 Mobile Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter" />
+</p>
+
+---
+
+## 🧰 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Meraz210&theme=tokyonight" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Meraz210&theme=tokyonight" />
+
+</p>
+
+<p align="center">
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Meraz210&theme=tokyonight" />
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img width="75%" src="https://streak-stats.demolab.com?user=Meraz210&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Meraz210&theme=tokyo-night&hide_border=true&radius=16" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Meraz210&theme=algolia&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+# 🚀 Current Focus
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="33%">
+
+### 🌐 Full-Stack Apps
+
+Building scalable and modern web applications.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🤖 AI Solutions
+
+Exploring machine learning and AI-powered systems.
+
+</td>
+
+<td align="center" width="33%">
+
+### 📱 Mobile Apps
+
+Creating responsive cross-platform applications.
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 💡 Developer Philosophy
+
+<p align="center">
+
+> “Clean code always looks like it was written by someone who cares.”
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+<p align="center">
+I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Meraz210&label=PROFILE+VIEWS&color=2563eb&style=for-the-badge" />
+</p>
+
+---
+
+# 🧠 Currently Exploring
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+
+<img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:merazahasan210@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/meraz-ahasan">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/Meraz210">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
 
 ---
 
 <p align="center">
-  <b>"Build with purpose. Learn daily. Improve relentlessly."</b>
+⭐ From <a href="https://github.com/Meraz210">Meraz210</a>
 </p>
