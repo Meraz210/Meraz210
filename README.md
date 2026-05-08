@@ -44,20 +44,10 @@ I build scalable web applications, modern digital experiences, and impactful sof
 
 ---
 
-# 💻 Developer Workspace
-
 <p align="center">
-  <img 
-    width="100%" 
-    src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" 
-    alt="Developer Workspace"
-  />
-</p>
-
-<p align="center">
-
-### ⚡ Building Scalable Applications • Solving Real-World Problems • Learning Every Day
-
+  <b>
+    🚀 Full-Stack Development • ⚡ Scalable Systems • 🤖 AI Exploration • 📱 Modern Applications
+  </b>
 </p>
 
 ---
@@ -66,23 +56,23 @@ I build scalable web applications, modern digital experiences, and impactful sof
 
 ```yaml
 Name: Meraz Ahasan
+Role: Full-Stack Developer
 Location: Bangladesh
-Education: CSE Student
 
-Focus:
+Interests:
   - Full-Stack Web Development
   - Artificial Intelligence
-  - Scalable Software Architecture
-  - Problem Solving & DSA
+  - System Design
+  - Mobile Applications
 
 Currently Learning:
   - Next.js
-  - System Design
-  - Cloud Technologies
-  - Advanced Backend Engineering
+  - Cloud Computing
+  - Scalable Backend Systems
+  - Machine Learning
 
 Goal:
-  Build impactful real-world software products.
+  Building impactful software products that solve real-world problems.
 ```
 
 ---
@@ -174,7 +164,7 @@ Goal:
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Meraz210&theme=algolia&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Meraz210&theme=algolia&no-frame=true&margin-w=15&margin-h=15&column=4" />
 </p>
 
 ---
@@ -281,4 +271,10 @@ I enjoy turning complex problems into simple, beautiful, and intuitive solutions
 
 <p align="center">
 ⭐ From <a href="https://github.com/Meraz210">Meraz210</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:1e3a8a&height=120&section=footer"/>
 </p>
